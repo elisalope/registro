@@ -1,0 +1,60 @@
+body {
+    width: 900px;
+    
+    margin: auto;
+    background-color: lavenderblush;
+}
+
+nav li {
+    display: inline-block;
+    padding:20px;
+    font-size: x-large; 
+}
+
+h1{
+    background-color: palevioletred;
+    color: white;
+    text-align:center;
+}
+
+h2{
+
+    color: hotpink;   
+}
+
+h3 {
+    background-color: palevioletred;
+    color: white;
+    text-align:center;   
+    font-family: "bahnschrift"
+}
+h4 {
+    background-color: palevioletred;
+    color: white;
+    text-align:center;
+    font-family: "bahnschrift"
+    
+}
+h5 {
+    background-color: palevioletred;
+    color: white;
+    text-align:center;
+    font-family: "bahnschrift"
+}
+
+h6 {
+    color: black;
+    font-family: "bahnschrift"
+    
+}
+
+
+
+
+
+.uno-tercero{
+
+}
+
+
+
